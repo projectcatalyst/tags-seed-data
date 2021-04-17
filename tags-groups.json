@@ -1,0 +1,43 @@
+{
+  "tags": [
+    { "group": "general", "tag": "dapp" },
+    { "group": "general", "tag": "token" },
+    { "group": "general", "tag": "africa" },
+    { "group": "general", "tag": "charity" },
+    { "group": "general", "tag": "environment-and-sustainability" },
+
+    { "group": "development-and-infrastructure", "tag": "marlowe" },
+    { "group": "development-and-infrastructure", "tag": "plutus" },
+    { "group": "development-and-infrastructure", "tag": "infrastructure" },
+    { "group": "development-and-infrastructure", "tag": "developer-tooling" },
+    { "group": "development-and-infrastructure", "tag": "development-framework" },
+
+    { "group": "governance", "tag": "community" },
+    { "group": "governance", "tag": "dao" },
+    { "group": "governance", "tag": "governance-and-voting" },
+
+    { "group": "finance", "tag": "finance" },
+    { "group": "finance", "tag": "defi" },
+    { "group": "finance", "tag": "borrowing-and-lending" },
+    { "group": "finance", "tag": "investing" },
+    { "group": "finance", "tag": "dex" },
+    { "group": "finance", "tag": "nfts" },
+    { "group": "finance", "tag": "fundraising" },
+
+    { "group": "education", "tag": "education" },
+    { "group": "education", "tag": "research" },
+
+    { "group": "markets", "tag": "marketplace" },
+    { "group": "markets", "tag": "health-and-fitness" },
+    { "group": "markets", "tag": "real-estate" },
+    { "group": "markets", "tag": "social" },
+    { "group": "markets", "tag": "gambling" },
+    { "group": "markets", "tag": "gaming" },
+    { "group": "markets", "tag": "virtual-reality" },
+
+    { "group": "marketing", "tag": "advertising" },
+    { "group": "marketing", "tag": "podcast" },
+    { "group": "marketing", "tag": "content-creator" },
+    { "group": "marketing", "tag": "video" }
+  ]
+}

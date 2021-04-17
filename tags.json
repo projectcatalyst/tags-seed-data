@@ -1,0 +1,43 @@
+{
+  "tags": [
+    { "id": "dapp", "name": "DApp" },
+    { "id": "token", "name": "Token" },
+    { "id": "africa", "name": "Africa" },
+    { "id": "charity", "name": "Charity" },
+    { "id": "environment-and-sustainability", "name": "Environment & Sustainability" },
+
+    { "id": "marlowe", "name": "Marlowe" },
+    { "id": "plutus", "name": "Plutus" },
+    { "id": "infrastructure", "name": "Infrastructure" },
+    { "id": "developer-tooling", "name": "Developer Tooling" },
+    { "id": "development-framework", "name": "Development Framework" },
+
+    { "id": "community", "name": "Community" },
+    { "id": "dao", "name": "DAO" },
+    { "id": "governance-and-voting", "name": "Governance & Voting" },
+
+    { "id": "finance", "name": "Finance" },
+    { "id": "defi", "name": "DeFi" },
+    { "id": "borrowing-and-lending", "name": "Borrowing & Lending" },
+    { "id": "investing", "name": "Investing" },
+    { "id": "dex", "name": "DEX" },
+    { "id": "nfts", "name": "NFTs" },
+    { "id": "fundraising", "name": "Fundraising" },
+
+    { "id": "education", "name": "Education" },
+    { "id": "research", "name": "Research" },
+
+    { "id": "marketplace", "name": "Marketplace" },
+    { "id": "health-and-fitness", "name": "Health & Fitness" },     
+    { "id": "real-estate", "name": "Real Estate" },
+    { "id": "social", "name": "Social" },
+    { "id": "gambling", "name": "Gambling" },
+    { "id": "gaming", "name": "Gaming" },
+    { "id": "virtual-reality", "name": "Virtual Reality" },
+
+    { "id": "advertising", "name": "Advertising" },
+    { "id": "podcast", "name": "Podcast" },
+    { "id": "content-creator", "name": "Content Creator" },
+    { "id": "video", "name": "Video" }
+  ]
+}

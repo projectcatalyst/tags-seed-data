@@ -1,0 +1,11 @@
+{
+  "tags": [
+    { "id": "general", "name": "General" },
+    { "id": "development-and-infrastructure", "name": "Development & Infrastructure" },
+    { "id": "governance", "name": "Governance" },
+    { "id": "finance", "name": "Finance" },
+    { "id": "education", "name": "Education" },
+    { "id": "markets", "name": "Markets" },
+    { "id": "marketing", "name": "Marketing" }
+  ]
+}
